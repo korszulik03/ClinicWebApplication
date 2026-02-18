@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\features",
+    "\\src\\features\\appointments",
+    "\\src\\features\\appointments\\dashboard",
+    "\\src\\features\\home",
+    "\\src\\features\\medications",
+    "\\src\\features\\medications\\dashboard",
+    "\\src\\features\\patients",
+    "\\src\\features\\patients\\dashboard"
+  ],
+  "SelectedNode": "\\src\\features\\home\\HomePage.tsx",
+  "PreviewInSolutionExplorer": false
+}

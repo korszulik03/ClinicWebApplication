@@ -1,0 +1,68 @@
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.deps.json
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.runtimeconfig.json
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.dll
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.pdb
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Domain.dll
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Domain.pdb
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.I.E1C7F613.Up2Date
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.dll
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\refint\Clinic.Infrastructure.dll
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.pdb
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.genruntimeconfig.cache
+C:\Users\Dawid\source\repos\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\ref\Clinic.Infrastructure.dll
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.deps.json
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.runtimeconfig.json
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.dll
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.pdb
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Domain.dll
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Domain.pdb
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.csproj.AssemblyReference.cache
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.AssemblyInfoInputs.cache
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.AssemblyInfo.cs
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.csproj.CoreCompileInputs.cache
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.I.E1C7F613.Up2Date
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.dll
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\refint\Clinic.Infrastructure.dll
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.pdb
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.genruntimeconfig.cache
+C:\STUDIA\SEM V\ASiW\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\ref\Clinic.Infrastructure.dll
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.deps.json
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.runtimeconfig.json
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.dll
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.pdb
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Domain.dll
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Domain.pdb
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.AssemblyInfo.cs
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.I.E1C7F613.Up2Date
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.dll
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\refint\Clinic.Infrastructure.dll
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.pdb
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.genruntimeconfig.cache
+C:\Users\Kamil\Downloads\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\ref\Clinic.Infrastructure.dll
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.deps.json
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.runtimeconfig.json
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.dll
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Infrastructure.pdb
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Domain.dll
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\bin\Debug\net9.0\Clinic.Domain.pdb
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.AssemblyInfo.cs
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.I.E1C7F613.Up2Date
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.dll
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\refint\Clinic.Infrastructure.dll
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.pdb
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.genruntimeconfig.cache
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\ref\Clinic.Infrastructure.dll
