@@ -46,3 +46,4 @@ C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWeb
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Domain\obj\Debug\net9.0\refint\Clinic.Domain.dll
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Domain\obj\Debug\net9.0\Clinic.Domain.pdb
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Domain\obj\Debug\net9.0\ref\Clinic.Domain.dll
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Domain\obj\Debug\net9.0\Clinic.Domain.sourcelink.json

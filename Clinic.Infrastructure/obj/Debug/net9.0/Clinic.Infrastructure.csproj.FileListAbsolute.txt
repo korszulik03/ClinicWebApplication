@@ -66,3 +66,4 @@ C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWeb
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.pdb
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.genruntimeconfig.cache
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\ref\Clinic.Infrastructure.dll
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.Infrastructure\obj\Debug\net9.0\Clinic.Infrastructure.sourcelink.json

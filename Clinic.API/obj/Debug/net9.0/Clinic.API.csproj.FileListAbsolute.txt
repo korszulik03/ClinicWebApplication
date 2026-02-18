@@ -600,10 +600,10 @@ C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWeb
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.API\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.API\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.API\obj\Debug\net9.0\Clinic.API.csproj.Up2Date
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.API\obj\Debug\net9.0\Clinic.API.dll
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.API\obj\Debug\net9.0\refint\Clinic.API.dll
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.API\obj\Debug\net9.0\Clinic.API.pdb
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.API\obj\Debug\net9.0\Clinic.API.genruntimeconfig.cache
 C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.API\obj\Debug\net9.0\ref\Clinic.API.dll
+C:\Users\Kamil\Documents\Projekty praktyki\ClinicWebApplication_Finito\ClinicWebApplication\Clinic.API\obj\Debug\net9.0\Clinic.API.sourcelink.json
